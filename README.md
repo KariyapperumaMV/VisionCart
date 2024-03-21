@@ -14,6 +14,6 @@ realm of shopping, promoting inclusivity and independence.</p>
 </ul>
 
 ## Main purpose
-This application has been developed to fulfilment of an assignment in Software Architecture module in the year 3 semester 2.
+This application has been developed to fulfilment of an assignment in Software Processing Model in the year 3 semester 1.
 
 <img src="https://static.sliit.lk/wp-content/uploads/2021/10/24070027/SLIIT.png" align="middle" width="50%" hight="25%">
