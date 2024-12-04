@@ -13,7 +13,7 @@ realm of shopping, promoting inclusivity and independence.</p>
   <li>Offer management</li>
 </ul>
 
-#View or Download Research paper - https://www.propulsiontechjournal.com/index.php/journal/article/view/2510
+# View or Download Research paper - https://www.propulsiontechjournal.com/index.php/journal/article/view/2510
 
 ## Main purpose
 This application has been developed to fulfilment of an assignment in Software Processing Model in the year 3 semester 1.
